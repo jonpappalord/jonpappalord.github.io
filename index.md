@@ -3,14 +3,11 @@ layout: home
 title: Home
 ---
 
-# Hi, I’m Jon 👋
+# Jon Pappalord
 
-I enjoy building useful things, learning new ideas, and keeping design simple.
+I build useful things and enjoy simple, thoughtful design.
 
-This website is a small space for:
-- projects I work on
-- notes and experiments
-- a bit about me
+This is my corner of the web — a place for projects, notes, and experiments.
 
-➡️ [See my projects](/projects/)  
-➡️ [Read more about me](/about/)
+[Projects](/projects/)  
+[About](/about/)
