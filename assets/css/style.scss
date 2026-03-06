@@ -1,3 +1,109 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ------------------------------------------------ */
+/* GLOBAL STYLE */
+/* ------------------------------------------------ */
+
+:root {
+  --bg: #fcfcfb;
+  --text: #111111;
+  --muted: #666666;
+  --accent: #2563eb;
+  --border: #e5e7eb;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  max-width: 760px;
+}
+
+/* ------------------------------------------------ */
+/* HEADER */
+/* ------------------------------------------------ */
+
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-title {
+  font-weight: 600;
+}
+
+/* ------------------------------------------------ */
+/* LINKS */
+/* ------------------------------------------------ */
+
+a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ------------------------------------------------ */
+/* TYPOGRAPHY */
+/* ------------------------------------------------ */
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2.7rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p, li {
+  color: var(--text);
+}
+
+/* ------------------------------------------------ */
+/* HERO SECTION */
+/* ------------------------------------------------ */
+
+.hero {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.eyebrow {
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.lead {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: var(--muted);
+  max-width: 600px;
+}
+
+/* ------------------------------------------------ */
+/* PROFILE LINKS */
+/* ------------------------------------------------ */
+
 .profile-links {
   margin-top: 1.6rem;
   display: flex;
@@ -14,15 +120,44 @@
 }
 
 .profile-link:hover {
-  color: #2563eb;
+  color: var(--accent);
 }
 
 .profile-link img {
-  width: 8px;
-  height: 8px;
+  width: 18px;
+  height: 18px;
 }
 
 .profile-link .icon {
-  font-size: 20px;
+  font-size: 18px;
 }
 
+/* ------------------------------------------------ */
+/* FOOTER */
+/* ------------------------------------------------ */
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  margin-top: 3rem;
+}
+
+/* ------------------------------------------------ */
+/* MOBILE */
+/* ------------------------------------------------ */
+
+@media (max-width: 640px) {
+
+  body {
+    font-size: 17px;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  .lead {
+    font-size: 1.1rem;
+  }
+
+}
