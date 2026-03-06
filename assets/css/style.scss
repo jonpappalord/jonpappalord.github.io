@@ -1,40 +1,26 @@
-/* HERO SECTION */
-
-.hero {
-  padding-top: 2.5rem;
-  padding-bottom: 1.5rem;
-}
-
-.eyebrow {
-  color: #2563eb;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.lead {
-  font-size: 1.25rem;
-  line-height: 1.6;
-  color: #555;
-  max-width: 600px;
-}
-
-.hero-buttons {
-  margin-top: 1.5rem;
+.profile-links {
+  margin-top: 1.6rem;
   display: flex;
+  flex-direction: column;
   gap: 10px;
-  flex-wrap: wrap;
 }
 
-.btn {
-  border: 1px solid #e5e7eb;
-  padding: 8px 14px;
-  border-radius: 20px;
+.profile-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   text-decoration: none;
-  font-size: 0.9rem;
 }
 
-.btn:hover {
-  border-color: #2563eb;
+.profile-link img {
+  width: 22px;
+  height: 22px;
+}
+
+.profile-link .icon {
+  font-size: 20px;
+}
+
+.profile-link:hover {
+  color: #2563eb;
 }
