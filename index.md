@@ -9,10 +9,23 @@ My research lies at the intersection of **artificial intelligence**, **complex s
 
 A major focus of my work is **human mobility**, studying how people move through cities and regions and how these patterns shape urban systems.
 
-<div class="hero-buttons">
-<a href="https://scholar.google.it/citations?user=88VJDhcAAAAJ&hl=it&oi=ao" class="btn">Publications</a>
-<a href="/assets/CV_pappalardo_website.pdf" class="btn"> CV</a>
-<a href="https://orcid.org/0000-0002-1547-6007" class="btn"> ORCID</a>
+<div class="profile-links">
+
+<a href="https://scholar.google.it/citations?user=88VJDhcAAAAJ&hl=it&oi=ao" class="profile-link">
+<img src="/assets/icons/google-scholar.svg" alt="Google Scholar">
+<span>Google Scholar</span>
+</a>
+
+<a href="https://orcid.org/0000-0002-1547-6007" class="profile-link">
+<img src="/assets/icons/orcid.svg" alt="ORCID">
+<span>ORCID</span>
+</a>
+
+<a href="/assets/CV_pappalardo_website.pdf" class="profile-link">
+<span class="icon">📄</span>
+<span>CV</span>
+</a>
+
 </div>
 
 
