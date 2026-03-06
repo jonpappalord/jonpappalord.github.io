@@ -8,8 +8,13 @@
 .profile-link {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   text-decoration: none;
+  color: inherit;
+}
+
+.profile-link:hover {
+  color: #2563eb;
 }
 
 .profile-link img {
@@ -21,6 +26,3 @@
   font-size: 20px;
 }
 
-.profile-link:hover {
-  color: #2563eb;
-}
