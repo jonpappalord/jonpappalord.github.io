@@ -12,15 +12,15 @@ A major focus of my work is **human mobility**, studying how people move through
 <div class="profile-links">
 
 <a href="https://scholar.google.it/citations?user=88VJDhcAAAAJ&hl=it&oi=ao" class="profile-link">
-<img src="/assets/icons/google-scholar.svg" alt="Google Scholar">
+<img src="/assets/icons/google-scholar.svg" alt="Google Scholar" width="18" height="18">
 <span>Google Scholar</span>
 </a>
-
+</br>
 <a href="https://orcid.org/0000-0002-1547-6007" class="profile-link">
-<img src="/assets/icons/orcid.svg" alt="ORCID">
+<img src="/assets/icons/orcid.svg" alt="ORCID" width="18" height="18">
 <span>ORCID</span>
 </a>
-
+</br>
 <a href="/assets/CV_pappalardo_website.pdf" class="profile-link">
 <span class="icon">📄</span>
 <span>CV</span>
