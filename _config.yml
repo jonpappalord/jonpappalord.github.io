@@ -1,11 +1,11 @@
-title: Jon Pappalord
-description: Personal website, notes, and projects
+title: Luca Pappalardo
+description: Research website
 theme: minima
 
 url: "https://jonpappalord.github.io"
 
 header_pages:
   - about.md
-  - projects.md
+  - research.md
 
 markdown: kramdown
