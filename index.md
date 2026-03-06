@@ -11,7 +11,7 @@ A major focus of my work is **human mobility**, studying how people move through
 
 <div class="hero-buttons">
 <a href="https://scholar.google.it/citations?user=88VJDhcAAAAJ&hl=it&oi=ao" class="btn">Publications</a>
-<a href="/assets/cv.pdf" class="btn"> CV</a>
+<a href="/assets/CV_pappalardo_website.pdf" class="btn"> CV</a>
 <a href="https://orcid.org/0000-0002-1547-6007" class="btn"> ORCID</a>
 </div>
 
