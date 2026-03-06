@@ -1,151 +1,40 @@
----
----
-
-@import "{{ site.theme }}";
-
-:root {
-  --bg: #fcfcfb;
-  --text: #111111;
-  --muted: #5f6b76;
-  --accent: #2563eb;
-  --border: #e8eaed;
-  --max: 780px;
-}
-
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-size: 18px;
-  line-height: 1.75;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
-
-.wrapper {
-  max-width: var(--max);
-}
-
-.site-header {
-  border-top: 0;
-  border-bottom: 1px solid var(--border);
-  background: rgba(252, 252, 251, 0.9);
-}
-
-.site-title,
-.site-nav .page-link {
-  color: var(--text) !important;
-  font-weight: 600;
-}
-
-.site-nav .page-link:not(:last-child) {
-  margin-right: 18px;
-}
-
-a {
-  color: var(--text);
-  text-decoration-color: rgba(37, 99, 235, 0.35);
-  text-underline-offset: 3px;
-}
-
-a:hover {
-  color: var(--accent);
-  text-decoration-color: var(--accent);
-}
-
-h1, h2, h3 {
-  letter-spacing: -0.025em;
-  line-height: 1.12;
-}
-
-h1 {
-  font-size: 3rem;
-  margin-bottom: 0.75rem;
-}
-
-h2 {
-  font-size: 1.45rem;
-  margin-top: 3rem;
-  margin-bottom: 0.8rem;
-}
-
-h3 {
-  font-size: 1.1rem;
-  margin-top: 1.6rem;
-  margin-bottom: 0.4rem;
-}
-
-p, li {
-  color: var(--text);
-}
-
-ul {
-  margin-top: 0.4rem;
-}
+/* HERO SECTION */
 
 .hero {
-  padding: 3.5rem 0 2rem;
+  padding-top: 2.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .eyebrow {
-  color: var(--accent);
-  font-size: 0.88rem;
-  font-weight: 700;
+  color: #2563eb;
+  font-weight: 600;
+  font-size: 0.85rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 0.8rem;
 }
 
 .lead {
-  font-size: 1.28rem;
-  line-height: 1.65;
-  color: var(--muted);
-  max-width: 42rem;
-  margin-bottom: 1.4rem;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #555;
+  max-width: 600px;
 }
 
-.hero-links {
+.hero-buttons {
+  margin-top: 1.5rem;
   display: flex;
-  gap: 1rem;
+  gap: 10px;
   flex-wrap: wrap;
-  margin-top: 1rem;
 }
 
-.hero-links a {
-  display: inline-block;
-  padding: 0.55rem 0.9rem;
-  border: 1px solid var(--border);
-  border-radius: 999px;
+.btn {
+  border: 1px solid #e5e7eb;
+  padding: 8px 14px;
+  border-radius: 20px;
   text-decoration: none;
+  font-size: 0.9rem;
 }
 
-.hero-links a:hover {
-  border-color: var(--accent);
-}
-
-.site-footer {
-  border-top: 1px solid var(--border);
-  color: var(--muted);
-  margin-top: 3rem;
-}
-
-.page-content {
-  padding-top: 2rem;
-}
-
-@media (max-width: 640px) {
-  body {
-    font-size: 17px;
-  }
-
-  h1 {
-    font-size: 2.35rem;
-  }
-
-  .lead {
-    font-size: 1.1rem;
-  }
-
-  .hero {
-    padding-top: 2.4rem;
-  }
+.btn:hover {
+  border-color: #2563eb;
 }
