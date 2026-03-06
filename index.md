@@ -1,7 +1,5 @@
+
 <div class="hero">
-
-# Luca Pappalardo
-
 <p class="lead">
 I am a <b>Senior Researcher</b> at the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR) and <b>Associate Professor</b> at Scuola Normale Superiore of Pisa, Italy.
 </p>
@@ -11,11 +9,12 @@ My research lies at the intersection of **artificial intelligence**, **complex s
 
 A major focus of my work is **human mobility**, studying how people move through cities and regions and how these patterns shape urban systems.
 
----
-## Research Projects
-I'm currently the PI of the *FIS Consolidator* project **CAIO: City-AI Coevolution**, funded by the Italian Ministry of University and Research (MUR) under the program FIS (Fondo Italiano per la Scienza). 
+<div class="hero-buttons">
+<a href="https://scholar.google.it/citations?user=88VJDhcAAAAJ&hl=it&oi=ao" class="btn">Publications</a>
+<a href="/assets/cv.pdf" class="btn"> CV</a>
+<a href="https://orcid.org/0000-0002-1547-6007" class="btn"> ORCID</a>
+</div>
 
-## Links
+## Current Research Projects
+- I lead **CAIO: City-AI Coevolution**, a five-year (2026-2030), €1.4M *FIS Consolidator* project funded by the Italian Ministry of University and Research (MUR) under the program Fondo Italiano per la Scienza (FIS). Our team investigates the mechanisms of the human-AI feedback loop within location-based platforms to understand how these technologies shape societal and urban development.
 
-- Google Scholar  
-- ORCID
