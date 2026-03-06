@@ -8,10 +8,4 @@ header_pages:
   - about.md
   - projects.md
 
-minima:
-  social_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/jonpappalord
-
 markdown: kramdown
