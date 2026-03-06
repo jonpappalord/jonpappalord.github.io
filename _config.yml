@@ -1,1 +1,17 @@
-theme: jekyll-theme-tactile
+title: Jon Pappalord
+description: Personal website, notes, and projects
+theme: minima
+
+url: "https://jonpappalord.github.io"
+
+header_pages:
+  - about.md
+  - projects.md
+
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/jonpappalord
+
+markdown: kramdown
