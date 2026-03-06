@@ -15,6 +15,7 @@ A major focus of my work is **human mobility**, studying how people move through
 <a href="https://orcid.org/0000-0002-1547-6007" class="btn"> ORCID</a>
 </div>
 
+
 ## Current Research Projects
 - I lead **CAIO: City-AI Coevolution**, a five-year (2026-2030), €1.4M *FIS Consolidator* project funded by the Italian Ministry of University and Research (MUR) under the program Fondo Italiano per la Scienza (FIS). Our team investigates the mechanisms of the human-AI feedback loop within location-based platforms to understand how these technologies shape societal and urban development.
 
