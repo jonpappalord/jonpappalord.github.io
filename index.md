@@ -1,19 +1,21 @@
----
-layout: home
-title: Home
-permalink: /
----
-
 <div class="hero">
-  <h1>Luca Pappalardo</h1>
-  <p class="lead">
-    I'm a Senior Researcher at the National Research Council of Italy (CNR) and an Associate Professor at Scuola Normale Superiore, Italy. My work focuses on understanding human behavior through data, with applications spanning human mobility, social systems, and AI. 
-  </p>
+
+# Luca Pappalardo
+
+<p class="lead">
+I am a <b>Senior Researcher</b> at the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR) and <b>Associate Professor</b> at Scuola Normale Superiore of Pisa, Italy.
+</p>
 </div>
 
-## Selected links
+My research lies at the intersection of **artificial intelligence**, **complex systems**, and **computational social science**, with a particular focus on understanding **Human-AI Coevolution**, the dynamic and interactive process in which humans and AI algorithms influence each other over time.
 
-- [ISTI-CNR profile](https://www.isti.cnr.it/en/about/people-detail/278/Luca_Pappalardo)
-- [KDD Lab profile](https://kdd.isti.cnr.it/people/pappalardo-luca)
-- [CNR publications](https://iris.cnr.it/cris/rp/rp04108)
-  
+A major focus of my work is **human mobility**, studying how people move through cities and regions and how these patterns shape urban systems.
+
+---
+## Research Projects
+I'm currently the PI of the *FIS Consolidator* project **CAIO: City-AI Coevolution**, funded by the Italian Ministry of University and Research (MUR) under the program FIS (Fondo Italiano per la Scienza). 
+
+## Links
+
+- Google Scholar  
+- ORCID
