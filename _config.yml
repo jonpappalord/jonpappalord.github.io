@@ -4,8 +4,6 @@ theme: minima
 
 url: "https://jonpappalord.github.io"
 
-header_pages:
-  - about.md
-  - research.md
+header_pages: []
 
 markdown: kramdown
